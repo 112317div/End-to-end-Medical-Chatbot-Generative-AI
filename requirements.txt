@@ -1,6 +1,6 @@
-langchain-community
-langchain-huggingface
-langchain_huggingface
+langchain-community==0.0.1
+langchain-huggingface==0.1.0
+langchain-core==0.3.0
 sentence-transformers==2.2.2
 langchain
 flask
@@ -8,7 +8,6 @@ pypdf
 python-dotenv
 pinecone[grpc]
 langchain-pinecone
-langchain_community
 langchain_openai
 langchain_experimental
 -e .
